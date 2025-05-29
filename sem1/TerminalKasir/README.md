@@ -1,4 +1,4 @@
-TerminalKasir
+# TerminalKasir
 
 Project ini ada di mata kuliah bernama "Pemograman Dasar" Semester 1 Universitas Nusa Mandiri.
 Kelompok saya terdiri dari 4 orang. yaitu:
