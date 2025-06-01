@@ -1,7 +1,5 @@
 # Hospital Queue
 
-# TerminalKasir
-
 Project ini ada di mata kuliah bernama "Struktur Data" Semester 2 Universitas Nusa Mandiri.<br>
 Kelompok saya terdiri dari 4 orang. yaitu:
 
